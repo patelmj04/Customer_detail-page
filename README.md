@@ -1,8 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Data Recovery Customer Onboarding Software: Streamline customer data collection and specification gathering for precise data recovery requirements.
+
+
 ## Getting Started
 
-First, run the development server:
+## Download the code either from the Git Link or the Zip 
+
+# Run Npm Install
+
+Then, run the development server:
 
 ```bash
 npm run dev
