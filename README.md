@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Data Recovery Customer Onboarding Software: Streamline customer data collection and specification gathering for precise data recovery requirements.
 
 
-## Getting Started
+### Getting Started
 
 ## Download the code either from the Git Link or the Zip 
 
